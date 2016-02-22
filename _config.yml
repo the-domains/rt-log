@@ -1,0 +1,28 @@
+name: RT log
+favicon: null
+layout_spectrum: 0.7440444978419691
+typography_spectrum: 0.8396936994977295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8840634226799011
+  lightness: 0.45166081259958446
+  saturation: 0.4325371873565018
+  rhythmicContrast: 0.6668647136539221
+purpose: []
